@@ -1,0 +1,1 @@
+## Example domain. This is meant to be renamed to focus on what your apps purpose is.
